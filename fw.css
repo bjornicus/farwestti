@@ -2,16 +2,19 @@ body {
   background: #4e4e4e;
   font-size: 2em;
   font-family: arial;
-  padding: 5%;
 }
 
+.header{
+  
+}
 .logo {
+  margin-left: 5%;
   width: 100%;
 }
 
-.header ul{
+.header-links{
   width: 100%;
-  margin: 0;
+  padding-left: 5%;
   background: #fce739;
 }
 .header li{
