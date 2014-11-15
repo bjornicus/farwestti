@@ -20,6 +20,9 @@
     <div class="content">
        <img src="http:/lorempixel.com/1000/600/city">
     </div>
+    <div class="footer">
+        <a href="https://www.facebook.com/pages/Farwest-TI-General-Contracting-Services/729631923777583"><img src="images/FB_FindUsOnFacebook-100.png" alt="Find us on Facebook" /></a>
+    </div>
 </body>
 
 </html>

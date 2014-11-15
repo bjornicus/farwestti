@@ -3,6 +3,7 @@ ul{
 }
 
 body {
+  margin: 0;
   background: #4e4e4e;
   font-size: 1.2em;
   font-family: arial;
@@ -10,7 +11,7 @@ body {
 
 .logo {
   margin-top: 5%;
-  margin-left: 5%;
+  padding-left: 5%;
   width: 300px;
 }
 
@@ -33,4 +34,14 @@ body {
 
 .content{
   margin-left: 5%;
+  width: 90%;
+}
+.content img {
+  width: 100%;
+}
+
+.footer {
+  padding: 0.5em 5%;
+  margin: 1em 0; 
+  background: #fce739;
 }
