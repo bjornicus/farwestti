@@ -1,13 +1,11 @@
 body {
   background: #4e4e4e;
-  font-size: 2em;
+  font-size: 1.2em;
   font-family: arial;
 }
 
-.header{
-  
-}
 .logo {
+  margin-top: 5%;
   margin-left: 5%;
   width: 100%;
 }

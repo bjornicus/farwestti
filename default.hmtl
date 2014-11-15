@@ -9,7 +9,7 @@
 <body>
     <div class="header">
 		<div class="logo">
-			<img src="http://lorempixel.com/243/70/city" alt="" />
+			<img src="images/logo.png" alt="" />
 		</div>    
 		<ul class="header-links">
 			<li>Services</li>
