@@ -17,6 +17,9 @@
 			<li>Contact</li>
         </ul>
     </div>
+    <div class="content">
+       <img src="http:/lorempixel.com/1000/600/city">
+    </div>
 </body>
 
 </html>
