@@ -1,0 +1,18 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="fw.css">
+</head>
+
+<body>
+    <header class="header">
+        <img src="http://lorempixel.com/243/70/city" alt="" class="logo">
+        <ul>
+            <li>Services</li>
+            <li>Projects</li>
+            <li>Contact</li>
+        </ul>
+    </header>
+</body>
+
+</html>
