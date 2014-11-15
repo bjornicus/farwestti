@@ -1,7 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="em-US">
 
 <head>
-<link rel="stylesheet" href="fw.css">
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="fw.css">
 </head>
 
 <body>
