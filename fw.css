@@ -7,17 +7,18 @@ body {
 .logo {
   margin-top: 5%;
   margin-left: 5%;
-  width: 100%;
+  width: 300px;
 }
 
 .header-links{
   width: 100%;
-  padding-left: 5%;
+  padding-left: calc(10% + 300px);
+  padding-right: 5%;
   background: #fce739;
 }
 .header li{
   display: inline-block;
-  padding: 0 5%
+  padding-right: 5%;
 }
 
 ul{
