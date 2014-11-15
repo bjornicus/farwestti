@@ -11,11 +11,17 @@ body {
 }
 
 .header-links{
-  width: 100%;
-  padding-left: calc(10% + 300px);
-  padding-right: 5%;
-  background: #fce739;
+    background: #fce739;
 }
+
+@media (min-width: 768px) {
+  .header-links{
+    width: 100%;
+    padding-left: calc(10% + 300px);
+    padding-right: 5%;
+  }
+}
+
 .header li{
   display: inline-block;
   padding-right: 5%;
