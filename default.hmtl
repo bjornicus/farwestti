@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="em-US">
+<html lang="en-US">
 
 <head>
     <meta charset="utf-8" />
@@ -7,14 +7,16 @@
 </head>
 
 <body>
-    <header class="header">
-        <img src="http://lorempixel.com/243/70/city" alt="" class="logo">
-        <ul>
-            <li>Services</li>
-            <li>Projects</li>
-            <li>Contact</li>
+    <div class="header">
+		<div class="logo">
+			<img src="http://lorempixel.com/243/70/city" alt="" />
+		</div>    
+		<ul>
+			<li>Services</li>
+			<li>Projects</li>
+			<li>Contact</li>
         </ul>
-    </header>
+    </div>
 </body>
 
 </html>
