@@ -16,7 +16,8 @@ body {
 }
 
 .header-links{
-    background: #fce739;
+  background: #fce739;
+  padding-left: 5%;
 }
 
 @media (min-width: 768px) {
