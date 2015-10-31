@@ -1,12 +1,10 @@
 {
-  "author": "Tessa Harmon",
-  "name": "brunch-stylus-jade",
-  "description": "Minimal brunch template with stylus and jade.",
+  "author": "Bjorn Hansen",
+  "name": "farwenstti",
+  "description": "brunch, with stylus",
   "version": "1.5.4",
-  "homepage": "http://www.tessaharmon.com/",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/TessaHarmon/brunch-jade-stylus"
+    "type": "git"
   },
   "engines": {
     "node": "~0.6.10 || 0.8 || 0.9"
@@ -15,15 +13,11 @@
     "start": "brunch watch --server",
     "test": "brunch test"
   },
-  "dependencies": {
-    "javascript-brunch": ">= 1.0 < 1.6",
-    "css-brunch": ">= 1.0 < 1.6",
-    "stylus-brunch": "~1.6.1",
-    "static-jade-brunch": "~1.4.11",
-    "auto-reload-brunch": "~1.8.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jade-brunch": "~1.5.1",
-    "fb-flo-brunch": "~1.7.22"
+    "css-brunch": "~1.7.0",
+    "javascript-brunch": "~1.8.0",
+    "auto-reload-brunch": "~1.8.1",
+    "stylus-brunch": "~1.8.1"
   }
 }

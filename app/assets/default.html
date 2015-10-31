@@ -4,25 +4,38 @@
 <head>
     <meta name="viewport" content="width=320, initial-scale=1.0" />
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="fw.css">
+    <link rel="stylesheet" href="stylesheets/app.css">
     <title>Farwest Tenant Improvements, Inc. - General Contracting Services</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="javascripts/vendor.js"></script>
+    <script>
+    $(function() {
+        $("#slides").slidesjs({
+            width: 940,
+            height: 528
+        });
+    });
+    </script>
 </head>
 
 <body>
     <div class="header">
-		<div class="logo">
-			<img src="images/logo.png" alt="" />
-		</div>    
-		<ul class="header-links">
-			<li>Residential</li>
-			<li>Commercial</li>
+        <div class="logo">
+            <img src="images/logo.png" alt="" />
+        </div>
+        <ul class="header-links">
+            <li>Residential</li>
+            <li>Commercial</li>
             <li>About Us</li>
-			<li>Contact</li>
+            <li>Contact</li>
             <li>Careers</li>
         </ul>
     </div>
     <div class="content">
-       <img class="hero" src="images/Hero1.jpg">
+        <div id="slides">
+            <img class="hero" src="images/Hero1.jpg">
+            <img src="http://placehold.it/940x528">
+        </div>
     </div>
     <div class="footer">
         <a href="https://www.facebook.com/pages/Farwest-TI-General-Contracting-Services/729631923777583"><img src="images/FB_FindUsOnFacebook-100.png" alt="Find us on Facebook" /></a>
